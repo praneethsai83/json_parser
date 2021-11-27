@@ -4,13 +4,13 @@
 			"name" : "name",
 			"metadata" : "name",
 			"retain" : "Y",
-			"sequence" : 1
+			"sequence" : "1"
 		},
 		{
 			"name" : "city",
 			"metadata" : "address.city",
 			"retain" : "Y",
-			"sequence" : 1
+			"sequence" : "1"
 		}
 	]
 }
